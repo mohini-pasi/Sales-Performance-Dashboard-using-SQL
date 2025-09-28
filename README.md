@@ -76,14 +76,12 @@ KPIs: Total revenue, total units sold.
 
 📷 Output Example
 
-sales_dashboard.png
+Sales-Performance-Dashboard-using-SQL/sales_dashboard.png
 
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📬 Contact
-For questions or feedback, please reach out to your.email@example.com.
 
 markdown
 Copy code
