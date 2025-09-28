@@ -36,14 +36,17 @@ Copy code
 ```bash
 git clone https://github.com/mohini-pasi/Sales-Performance-Dashboard.git
 cd Sales-Performance-Dashboard
+```
 2. Install Required Python Libraries
-bash
+```bash
 Copy code
 pip install pandas matplotlib seaborn openpyxl
+```
 3. Run the Jupyter Notebook
-bash
+```bash
 Copy code
 jupyter notebook notebooks/sales_analysis.ipynb
+```
 4. Open Cleaned Data in Power BI
 Import data/cleaned_sales_data.xlsx in Power BI.
 
@@ -74,7 +77,7 @@ KPIs: Total revenue, total units sold.
 📷 Output Example
 
 sales_dashboard.png
-Note: Replace the above link with your actual screenshot path.
+
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
