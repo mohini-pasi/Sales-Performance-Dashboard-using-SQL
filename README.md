@@ -11,7 +11,7 @@ This project leverages **Python**, **SQL**, and **Power BI** to analyze and visu
 - **Power BI**: Interactive dashboard creation.
 
 ## 📁 Project Structure
-
+```bash
 Sales-Performance-Dashboard/
 │
 ├── data/
@@ -25,7 +25,7 @@ Sales-Performance-Dashboard/
 │ └── sales_queries.mysql # SQL queries for analysis
 │
 └── README.md # Project documentation
-
+```
 bash
 Copy code
 
@@ -73,7 +73,7 @@ KPIs: Total revenue, total units sold.
 
 📷 Output Example
 
-
+sales_dashboard.png
 Note: Replace the above link with your actual screenshot path.
 
 📄 License
