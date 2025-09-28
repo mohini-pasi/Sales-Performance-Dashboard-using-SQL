@@ -76,7 +76,7 @@ KPIs: Total revenue, total units sold.
 
 📷 Output Example
 
-![Dashboard Screenshot](https://github.com/mohini-pasi/Sales-Performance-Dashboard-using-SQL/sales_dashboard.png)
+![Dashboard Screenshot](sales_dashboard.png)
 
 
 
